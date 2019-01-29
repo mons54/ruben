@@ -1,26 +1,6 @@
-# example
+git clone https://github.com/mons54/ruben
 
-## Project setup
-```
-yarn install
-```
+cd folder
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+npm install
+npm run serve
